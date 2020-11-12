@@ -5,7 +5,8 @@ public class Main {
 
         System.out.println("Hello Git Last Day");
 
-        // b21 id exited
+        // b21 is exited
+        // b21 is dedicated
 
 
 
