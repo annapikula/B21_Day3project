@@ -7,6 +7,7 @@ public class Main {
 
         // b21 is exited
         // b21 is dedicated
+// b21 are successful
 
 
 
